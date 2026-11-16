@@ -34,3 +34,19 @@ Your prototype must prioritize the functional implementation of **two selected f
 ## 4. Setup & Running Instructions
 
 [Provide clear, step-by-step instructions to install dependencies, configure the project if necessary, and run the prototype locally.]
+
+
+
+## 5. Feature Demonstration
+
+Provide step-by-step instructions for accessing and testing each of your two selected features.
+
+### Feature 1: [Feature Name]
+1. [Steps to access the feature.]
+2. [Steps to test its functionality.]
+3. [Expected outcome.]
+
+### Feature 2: [Feature Name]
+1. [Steps to access the feature.]
+2. [Steps to test its functionality.]
+3. [Expected outcome.]
